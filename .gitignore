@@ -1,0 +1,22 @@
+# Build output
+*.class
+out/
+bin/
+build/
+target/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
